@@ -9,7 +9,7 @@ employee_count = 0
 
 while True: 
 # 메뉴를 출력
- menu = print(f"""
+ print(f"""
               ======================
               1. 직원 출근 시간 기록
               2. 직원 퇴근 시간 시록
